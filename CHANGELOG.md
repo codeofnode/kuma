@@ -4,6 +4,8 @@
 
 Changes:
 
+* feature: enable Envoy Admin API by default with an option to opt out
+  [#523](https://github.com/Kong/kuma/pull/523)
 * feature: generate Envoy configuration that exposes Prometheus metrics
   [#510](https://github.com/Kong/kuma/pull/510)
 * feature: make port of Envoy Admin API available to Envoy config generators
