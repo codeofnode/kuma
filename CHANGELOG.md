@@ -4,6 +4,8 @@
 
 Changes:
 
+* feature: redirect requests to /api path on GUI server to API Server
+  [#520](https://github.com/Kong/kuma/pull/520)
 * feature: make port of Envoy Admin API available to Envoy config generators
   [#508](https://github.com/Kong/kuma/pull/508)
 * feature: add option to run dataplane as a gateway without inbounds
